@@ -1,0 +1,84 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "bid": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "is_aggregate": {
+      "dtype": "bool",
+      "_type": "Value"
+    },
+    "source": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "chapter_path": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "summary_path": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "book_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "summary_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "content": {
+      "dtype": "null",
+      "_type": "Value"
+    },
+    "summary": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "chapter": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "chapter_length": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "summary_name": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "summary_url": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "summary_text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "summary_analysis": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "summary_length": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "analysis_length": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "__index_level_0__": {
+      "dtype": "int64",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
