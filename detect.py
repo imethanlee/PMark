@@ -20,7 +20,7 @@ if __name__ == "__main__":
     parser.add_argument("--log_dir", type=str, default="logs/opt-1.3b_log")
     parser.add_argument("--model_name", type=str, default=None)
     parser.add_argument("--api_base", type=str, default=None, help="base url to generate by OpenAI API")
-    parser.add_argument("--backend", type=str, default="hf", help="backend for generation, select from [\"openai\", \"vllm\", \"hf\"]")
+    parser.add_argument("--backend", type=str, default="vllm", help="backend for generation, select from [\"openai\", \"vllm\", \"hf\"]")
     parser.add_argument("--tokenizer_name", type=str, default=None)
     parser.add_argument("--max_context", type=int, default=1024)
     parser.add_argument("--detect_origin", type=bool, default=False, help="whether including result of natural text")
